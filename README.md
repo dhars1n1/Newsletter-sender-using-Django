@@ -1,0 +1,1 @@
+# Newsletter-sender-using-Django
